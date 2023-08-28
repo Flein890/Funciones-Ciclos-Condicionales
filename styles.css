@@ -136,3 +136,14 @@ body {
     border-radius: 50%;
   }
 }
+
+.creator {
+  position: absolute;
+  z-index: 100;
+  bottom: 20px;
+  right: 20px;
+  color: #000;
+  padding: 10px;
+  background-color: #bbb;
+  box-shadow: 1px 1px 15px 1px;
+}
